@@ -14,7 +14,7 @@ window.onload = function () {
       }
     });
   });
-
+ 
     $(function() {
     $( "#resizable" ).resizable();
   });
